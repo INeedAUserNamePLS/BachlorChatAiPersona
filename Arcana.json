@@ -5,7 +5,7 @@
   "model": "meta-llama-3.1-8b-rag",
   "temperature": 0,
   "arcana": {
-     "id" : "alexg/informatik"
+     "id" : "a.guse/AGuse_Informatik_Tutor"
     },
   "top_p": 0.05,
   "messages": [
@@ -19,4 +19,5 @@
       "content": "Tutor für das Fachgebiet der Informatik"
     }
   ]
+
 }
